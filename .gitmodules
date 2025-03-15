@@ -1,0 +1,3 @@
+[submodule "policy-bot"]
+	path = policy-bot
+	url = https://github.com/bbuxton0823/policy-bot.git
